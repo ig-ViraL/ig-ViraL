@@ -84,7 +84,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dracula" height="150" />
-  <img src="https://github-profile-trophy.vercel.app?username=YOUR_USERNAME&theme=dracula" height="150" />
 </div>
 
 ---
@@ -92,7 +91,7 @@
 ### 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/viral-deshle/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:viraldeshle1234@gmail.com">
