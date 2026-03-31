@@ -3,12 +3,30 @@
 
 ---
 
+### 🚀 About Me & Stats
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 🚀 About Me
 
 - 💻 Full Stack Developer with **3+ years of experience**
-- ⚡ Specialized in **scalable systems, real-time architecture & cloud-native apps**
-- 🌍 Built systems serving **100K+ users & 170+ retail stores**
-- ☁️ AWS Certified Developer – Associate (Score: 888)
+- ⚡ Specialized in **scalable systems & real-time architecture**
+- 🌍 Built systems serving **100K+ users & 170+ stores**
+- ☁️ AWS Certified Developer (Score: 888)
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dracula" height="180"/>
+
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
@@ -16,12 +34,55 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,py,html,css" /><br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind" /><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql" /><br/>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,dynamodb" /><br/>
-<img src="https://skillicons.dev/icons?i=aws,docker,githubactions" /><br/>
+<table>
+<tr>
+<td align="center" width="50%">
+
+#### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css" />
+
+</td>
+
+<td align="center" width="50%">
+
+#### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+#### 🧠 Languages
+<img src="https://skillicons.dev/icons?i=js,ts,py" />
+
+</td>
+
+<td align="center">
+
+#### 🗄️ Database
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,dynamodb" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+#### ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,docker,githubactions" />
+
+</td>
+
+<td align="center">
+
+#### ⚡ Systems / Others
 <img src="https://skillicons.dev/icons?i=go,rust" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -29,24 +90,38 @@
 
 ### 💼 Experience
 
-#### 🚀 Full Stack Developer (Tech Lead) — devx AI Labs *(Dec 2024 – Present)*
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- Led scalable POS platform across **170+ stores**
-- Built **event-driven systems (EventBridge + ECS)**
-- Developed **real-time order editing system**
-- Reduced delivery errors by **60%**
-- Optimized infra → saved **$6000/month CDN cost**
-- Mentored team of 3 developers
+### 🚀 Tech Lead — devx AI Labs  
+*(Dec 2024 – Present)*
 
----
+- Led POS platform for **170+ stores**
+- Built **event-driven architecture**
+- Real-time order editing system
+- Reduced errors by **60%**
+- Saved **$6000/month infra cost**
+- Mentored team of 3 devs
 
-#### 💻 Jr. Full Stack Developer — WebOsmotic *(Feb 2023 – Nov 2024)*
+</td>
 
-- Built **real-time chat system (WebSockets + Redis)**
-- Implemented **presence, offline messaging, rate limiting**
-- Developed **WebRTC video prototype**
-- Built **real-time notification system**
-- Created **accessibility tools**
+<td width="50%" valign="top">
+
+### 💻 Full Stack Dev — WebOsmotic  
+*(Feb 2023 – Nov 2024)*
+
+- Real-time chat system (WS + Redis)
+- Presence & offline messaging
+- WebRTC video prototype
+- Notification systems
+- Accessibility tools
+
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
@@ -54,15 +129,15 @@
 
 #### 📈 Real-Time Stock Screener
 - Next.js 16 + WebSockets
-- Live stock updates without reload
-- Smart caching to avoid API limits
-- URL-based filters (shareable state)
+- Live updates without reload
+- Smart caching (rate-limit safe)
+- Shareable URL filters
 
 ---
 
-#### ⚡ Real-Time Chaos Testing Platform
-- Simulated thousands of concurrent users
-- Worker threads for high concurrency
+#### ⚡ Chaos Testing Platform
+- Simulated thousands of users
+- Worker threads for concurrency
 - Real-time performance dashboards
 
 ---
@@ -80,18 +155,10 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dracula" height="150" />
-</div>
-
----
-
 ### 🌐 Connect With Me
 
 <div align="center">
-  <a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/viral-deshle/)">
+  <a href="https://www.linkedin.com/in/viral-deshle/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:viraldeshle1234@gmail.com">
