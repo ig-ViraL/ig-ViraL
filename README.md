@@ -51,9 +51,6 @@
 #### 🗄️ Database
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,dynamodb" />
 
-#### ⚡ Systems
-<img src="https://skillicons.dev/icons?i=go,rust" />
-
 </td>
 </tr>
 </table>
