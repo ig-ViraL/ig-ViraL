@@ -1,8 +1,6 @@
 <h1>Hey 👋, I'm Viral Deshle</h1>
 <h3>Full Stack Engineer | Building Scalable & Real-Time Systems</h3>
 
-### 🚀 About Me & Stats
-
 <table>
 <tr>
 <td width="50%" valign="top">
