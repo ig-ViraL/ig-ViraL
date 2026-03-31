@@ -18,7 +18,7 @@
 
 ### 📊 GitHub Stats
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dracula" height="180"/>
+<img src="https://streak-stats.demolab.com?user=ig-ViraL&theme=dracula" height="180"/>
 
 </td>
 </tr>
