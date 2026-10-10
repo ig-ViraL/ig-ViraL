@@ -1,154 +1,163 @@
-<h1>Hey 👋, I'm Viral Deshle</h1>
-<h3>Full Stack Engineer | Building Scalable & Real-Time Systems</h3>
+<div align="center">
 
-<table>
-<tr>
-<td width="50%" valign="top" border="none">
+```
+╭──────────────────────────────────────────────────────────────╮
+│ ✻ Welcome to Viral's profile                                 │
+│                                                              │
+│   /help for help, /projects to see what I've shipped         │
+│                                                              │
+│   cwd: ~/ig-ViraL                                            │
+╰──────────────────────────────────────────────────────────────╯
+```
 
-### 🚀 About Me
+# Viral Deshle
 
-- 💻 Full Stack Developer with **3+ years of experience**
-- ⚡ Specialized in **scalable systems & real-time architecture**
-- 🌍 Built systems serving **100K+ users & 170+ stores**
-- ☁️ AWS Certified Developer (Score: 888)
+**Senior Software Engineer · Team Lead · Full-Stack & GenAI**
 
-</td>
+Building real-time, scalable platforms, from WhatsApp-driven healthcare SaaS to retail systems running 170+ stores.<br/>
+Surat, Gujarat, India · Open to remote and relocation
 
-<td width="50%" valign="top">
+<a href="https://www.linkedin.com/in/viral-deshle/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:viraldeshle1234@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/ig-ViraL"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-### 📊 GitHub Stats
+</div>
 
-<img src="https://streak-stats.demolab.com?user=ig-ViraL&theme=dracula" height="180"/>
+<br/>
 
-</td>
-</tr>
-</table>
+## `> whoami`
 
----
+```console
+viral@surat:~$ cat profile.json
+{
+  "role":        "Sr. Software Engineer @ Webvoltz (Team Lead, team of 5)",
+  "experience":  "3 years across startups, D2C and enterprise retail",
+  "focus":       ["real-time systems", "distributed architecture", "GenAI full-stack"],
+  "currently":   "Building RAG pipelines, LLM-integrated APIs and MCP tooling",
+  "certified":   "AWS Certified Developer – Associate (888/1000)",
+  "education":   "B.Tech CS, GTU (CGPA 9.17)",
+  "principle":   "Impact-first, outcome-driven"
+}
+```
 
-### 🛠️ Tech Stack
+## `> impact --summary`
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-#### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,html,css" />
+| 🏬 **170+** | 📦 **800+** | 👥 **1M+** | 💬 **30M+** | 💸 **$6K/mo** |
+|:---:|:---:|:---:|:---:|:---:|
+| retail stores on one POS | daily orders processed | peak-event users, zero downtime | real-time messages handled | infra cost saved |
 
-#### 🧠 Languages
-<img src="https://skillicons.dev/icons?i=js,ts,py" />
+| ⚡ **45K** | 🚚 **-60%** | 🛒 **-40%** | 🗂️ **7M+** | 🤖 **10** |
+|:---:|:---:|:---:|:---:|:---:|
+| concurrent users on WebSockets | delivery failures | cart-to-order time | coupons indexed in DynamoDB | MCP tools shipped |
 
-#### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,docker,githubactions" />
+</div>
 
-</td>
+## `> experience`
 
-<td width="50%" valign="top">
+### Sr. Software Engineer · [Webvoltz](https://webvoltz.com) · *Jun 2026 – Present*
 
-#### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql" />
+**CarePath: Multi-tenant patient communication platform for dental clinics**
+<sub>`Next.js` · `WhatsApp Business API` · `SMS` · `RBAC` · `Webhooks`</sub>
 
-#### 🗄️ Database
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,dynamodb" />
+- Lead architecture and delivery of a multi-tenant SaaS automating clinic-to-patient communication over WhatsApp and SMS, with RBAC across 4 roles (Super Admin, Clinic Admin, Staff, Patient).
+- Built a **dynamic workflow engine**: master workflows that clinics clone, with steps scheduled relative to patient-specific dates (e.g. surgery date ± N days) and **snapshotted at enrollment**, so template edits never break in-flight patient journeys.
+- Integrated the WhatsApp Business API: Meta-approved templates, webhook-driven two-way chat gated by the **23-hour customer service window**, and automatic **SMS fallback** on delivery failure.
+- Implemented **red-flag detection** on patient replies (English, Hindi, Gujarati and Roman-script keywords) that raises real-time staff alerts, backed by audit logs with delivery status.
 
-</td>
-</tr>
-</table>
-
----
-
-### 💼 Experience
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🚀 Tech Lead — devx AI Labs  
-*(Dec 2024 – Present)*
-
-- Led POS platform for **170+ stores**
-- Built **event-driven architecture**
-- Developed real-time order editing system
-- Reduced errors by **60%**
-- Saved **$6000/month infra cost**
-- Mentored 3 developers
-
-</td>
-
-<td width="50%" valign="top">
-
-### 💻 Full Stack Developer — WebOsmotic  
-*(Feb 2023 – Nov 2024)*
-
-- Built real-time chat (WebSockets + Redis)
-- Presence & offline messaging
-- WebRTC video prototype
-- Notification systems
-- Accessibility tools
-
-</td>
-</tr>
-</table>
+**Team leadership & delivery**
+- Team lead for **5 engineers**, owning projects from requirements to deployment across the full SDLC.
+- Re-architected and delivered **3 existing projects** and onboarded **3 new ones** from the ground up.
+- Own code review and PR approval; introduced **CodeRabbit** for AI-assisted reviews, catching bugs earlier and cutting manual review time.
 
 ---
 
-### 🚀 Projects
+### Full Stack Developer · [devx labs](https://devxlabs.ai) · *Dec 2024 – Feb 2026*
 
-<table>
-<tr>
-<td width="33%" valign="top">
+**The Sleep Company: Enterprise POS & retail platform**
+<sub>`React` · `Next.js` · `GraphQL` · `AWS Lambda` · `ECS` · `API Gateway` · `DynamoDB` · `Cognito` · `Step Functions`</sub>
 
-### 📈 Stock Screener
+- Led delivery of a POS platform across **170+ stores** processing **800+ daily orders**.
+- Revamped the checkout flow, cutting cart-to-order completion time by **40%**.
+- Architected an event-driven **Order Editing workflow on AWS Step Functions** with live recalculation, reducing CRM manual workload by **60%**.
+- Integrated **6 payment gateways** (Razorpay, PayU, Snapmint, Pine Labs POS, Gyftr, cash) with Shopify GraphQL as the central OMS.
+- Designed a DynamoDB indexing strategy tracking **7M+ coupons**, and replaced cron jobs with **EventBridge** scheduling, fixing observability gaps and environment drift across dev, UAT and prod.
 
-- Next.js 16 + WebSockets  
-- Real-time updates  
-- Smart caching  
-- Shareable filters  
+**Foxtale: D2C e-commerce platform**
+<sub>`Next.js` · `Strapi CMS` · `Shopify OMS` · `AWS ECS Fargate`</sub>
 
-</td>
+- Served **100K+ DAU** and scaled to **1M+ users and 10K+ orders/day** during peak sales with **zero downtime**.
+- Built homepage personalization by location and segment, with Next.js **ISR** for fast, always-fresh pages.
+- Replaced CloudFront with a custom Shopify CDN Strapi plugin, saving **$6,000/month**.
+- Cut delivery failures by **60%** with Google Maps geolocation and address normalization.
+- Integrated **8+ third-party services** (Gupshup, Mixpanel, WebEngage, GTM, ClickPost, EasyEcom).
 
-<td width="33%" valign="top">
-
-### ⚡ Chaos Testing
-
-- High concurrency simulation  
-- Worker threads  
-- Performance dashboards  
-
-</td>
-
-<td width="33%" valign="top">
-
-### 🍽️ Restaurant App
-
-- Full-stack system  
-- Orders & reservations  
-
-</td>
-</tr>
-</table>
+**Reliability & leadership:** API Gateway rate limiting, SSM/Secrets Manager, CloudWatch; primary on-call for production incidents; mentored 3 developers; ran system design and DSA interviews; led the Next.js 15 → 16 migration; authored architecture docs.
 
 ---
 
-### 🏆 Certifications
+### Jr. Full Stack Developer · WebOsmotic · *Feb 2023 – Nov 2024*
 
-- 🥇 AWS Certified Developer – Associate  
-- 🤖 Claude API Development  
-- 🧠 Agent Skills  
+- Built a real-time communication platform (chat, Q&A, presence) for **45K concurrent / 240K unique users** and **30M+ messages**, on `Node.js` · `Socket.IO` · `Redis pub/sub` for horizontal scaling.
+- Developed **Narad.io**, a notification module delivering system and user events with **sub-second latency**.
+- Built **Guidy**, a WCAG accessibility platform: Puppeteer-based auditing API, a nightly Lambda re-crawl, and 3 embeddable widgets.
+- Prototyped **WebRTC** P2P video and stress-tested dashboards against simulated millions of concurrent WebSocket connections.
 
----
+## `> ls projects/`
 
-### 🌐 Connect With Me
+| Project | What it does | Stack |
+|:--|:--|:--|
+| **DocMind** · RAG Document Q&A | End-to-end RAG: PDF/DOCX/TXT ingestion, recursive chunking, MiniLM embeddings, pgvector IVFFlat, cross-encoder reranking, hybrid search (pgvector + BM25 via RRF), Claude synthesis with citations, streamed over SSE. | `Python` `FastAPI` `pgvector` `Claude API` `Next.js` `Docker` |
+| **PostgreSQL MCP Server** | Production MCP server exposing **10 tools** (schema discovery, query execution, performance analysis, DB health). Sandboxed: read-only role, mutation blocking, auto `LIMIT`, 5s timeout, AES-256-GCM encrypted connection strings, zero server-side credentials. | `Python` `FastMCP` `asyncpg` `React` `Railway` |
+| **Real-Time Stock Screener** | Live dashboard streaming 25+ stocks over Finnhub WebSocket. `use cache` + Partial Prerendering for a **90%+ cache hit rate** within API rate caps; URL-driven, shareable filters. | `Next.js 16` `TypeScript` `WebSockets` |
 
-<a href="https://www.linkedin.com/in/viral-deshle/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:viraldeshle1234@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+> Live demos and source for each are linked from my [portfolio](https://github.com/ig-ViraL) and pinned repositories.
 
----
+## `> cat skills.txt`
 
-### ⚡ Fun Fact
+<div align="center">
 
-> I design systems that scale, not just features 🚀
+| | |
+|:--|:--|
+| **Languages** | `JavaScript` `TypeScript` `Python` `SQL` |
+| **Frontend** | `React` `Next.js` `Tailwind CSS` `WCAG Accessibility` |
+| **Backend** | `Node.js` `Express` `NestJS` `FastAPI` `GraphQL` `REST` `WebSockets` `WebRTC` |
+| **Data** | `PostgreSQL` `MongoDB` `DynamoDB` `Redis` `Elasticsearch` `pgvector` |
+| **Cloud & DevOps** | `AWS` `Docker` `Terraform` `GitHub Actions` `Vercel` `CI/CD` |
+| **Architecture** | `Microservices` `Event-Driven` `Distributed Systems` `System Design` |
+| **AI & GenAI** | `RAG` `Vector Search` `Embeddings` `LLM Integration` `MCP` `FastMCP` |
+| **Workflow** | `Claude Code` `Cursor` `CodeRabbit` `Git` `Jira` `Agile/Scrum` |
+
+<img src="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,tailwind,nodejs,nestjs,fastapi,graphql,postgres,mongodb,redis,dynamodb,aws,docker,terraform,githubactions&perline=9" />
+
+</div>
+
+## `> git log --stat`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ig-ViraL&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ig-ViraL&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://streak-stats.demolab.com?user=ig-ViraL&theme=tokyonight&hide_border=true" />
+
+</div>
+
+## `> credentials`
+
+- 🏆 **AWS Certified Developer – Associate**, Feb 2026, score **888/1000**
+- 🎓 **B.Tech in Computer Science**, Gujarat Technological University, 2019–2023, CGPA **9.17**
+
+## `> contact --open`
+
+I'm open to senior and lead full-stack roles, especially around real-time systems, distributed architecture and GenAI products.
+
+```console
+viral@surat:~$ echo "Let's build something that scales."
+Let's build something that scales.
+```
+
+<div align="center">
+<sub>✻ Engineered with care · Updated October 2026</sub>
+</div>
