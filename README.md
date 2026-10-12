@@ -19,6 +19,7 @@ Surat, Gujarat, India · Open to remote and relocation
 
 <a href="https://www.linkedin.com/in/viral-deshle/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:viraldeshle1234@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.viral-deshle.cloud/"><img src="https://img.shields.io/badge/Portfolio-d77757?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="https://github.com/ig-ViraL"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
@@ -108,11 +109,11 @@ viral@surat:~$ cat profile.json
 
 | Project | What it does | Stack |
 |:--|:--|:--|
-| **DocMind** · RAG Document Q&A | End-to-end RAG: PDF/DOCX/TXT ingestion, recursive chunking, MiniLM embeddings, pgvector IVFFlat, cross-encoder reranking, hybrid search (pgvector + BM25 via RRF), Claude synthesis with citations, streamed over SSE. | `Python` `FastAPI` `pgvector` `Claude API` `Next.js` `Docker` |
-| **PostgreSQL MCP Server** | Production MCP server exposing **10 tools** (schema discovery, query execution, performance analysis, DB health). Sandboxed: read-only role, mutation blocking, auto `LIMIT`, 5s timeout, AES-256-GCM encrypted connection strings, zero server-side credentials. | `Python` `FastMCP` `asyncpg` `React` `Railway` |
-| **Real-Time Stock Screener** | Live dashboard streaming 25+ stocks over Finnhub WebSocket. `use cache` + Partial Prerendering for a **90%+ cache hit rate** within API rate caps; URL-driven, shareable filters. | `Next.js 16` `TypeScript` `WebSockets` |
+| **DocMind** · RAG Document Q&A · [Live demo](https://www.viral-deshle.cloud/docmind) · [Code](https://github.com/ig-ViraL/doc-mind-backend) | End-to-end RAG: PDF/DOCX/TXT ingestion, recursive chunking, MiniLM embeddings, pgvector IVFFlat, cross-encoder reranking, hybrid search (pgvector + BM25 via RRF), Claude synthesis with citations, streamed over SSE. | `Python` `FastAPI` `pgvector` `Claude API` `Next.js` `Docker` |
+| **PostgreSQL MCP Server** · [Live demo](https://www.viral-deshle.cloud/pg-mcp) | Production MCP server exposing **10 tools** (schema discovery, query execution, performance analysis, DB health). Sandboxed: read-only role, mutation blocking, auto `LIMIT`, 5s timeout, AES-256-GCM encrypted connection strings, zero server-side credentials. | `Python` `FastMCP` `asyncpg` `React` `Railway` |
+| **Real-Time Stock Screener** · [Live demo](https://stock-screener-beta-two.vercel.app/) · [Code](https://github.com/ig-ViraL/stock-screener) | Live dashboard streaming 25+ stocks over Finnhub WebSocket. `use cache` + Partial Prerendering for a **90%+ cache hit rate** within API rate caps; URL-driven, shareable filters. | `Next.js 16` `TypeScript` `WebSockets` |
 
-> Live demos and source for each are linked from my [portfolio](https://github.com/ig-ViraL) and pinned repositories.
+> More on my [portfolio](https://www.viral-deshle.cloud/). Also public: [claude-code agents](https://github.com/ig-ViraL/agents) and [DSA practice](https://github.com/ig-ViraL/DSA). Built with Claude Code as a pair programmer; the architecture and decisions are mine.
 
 ## `> cat skills.txt`
 
