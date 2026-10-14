@@ -109,11 +109,11 @@ viral@surat:~$ cat profile.json
 
 | Project | What it does | Stack |
 |:--|:--|:--|
-| **DocMind** · RAG Document Q&A · [Live demo](https://www.viral-deshle.cloud/docmind) · [Code](https://github.com/ig-ViraL/doc-mind-backend) | End-to-end RAG: PDF/DOCX/TXT ingestion, recursive chunking, MiniLM embeddings, pgvector IVFFlat, cross-encoder reranking, hybrid search (pgvector + BM25 via RRF), Claude synthesis with citations, streamed over SSE. | `Python` `FastAPI` `pgvector` `Claude API` `Next.js` `Docker` |
-| **PostgreSQL MCP Server** · [Live demo](https://www.viral-deshle.cloud/pg-mcp) | Production MCP server exposing **10 tools** (schema discovery, query execution, performance analysis, DB health). Sandboxed: read-only role, mutation blocking, auto `LIMIT`, 5s timeout, AES-256-GCM encrypted connection strings, zero server-side credentials. | `Python` `FastMCP` `asyncpg` `React` `Railway` |
+| **DocMind** · RAG Document Q&A · [UI](https://www.viral-deshle.cloud/docmind) · [Code](https://github.com/ig-ViraL/doc-mind-backend) | End-to-end RAG: PDF/DOCX/TXT ingestion, recursive chunking, MiniLM embeddings, pgvector IVFFlat, cross-encoder reranking, hybrid search (pgvector + BM25 via RRF), Claude synthesis with citations, streamed over SSE. | `Python` `FastAPI` `pgvector` `Claude API` `Next.js` `Docker` |
+| **PostgreSQL MCP Server** · [UI](https://www.viral-deshle.cloud/pg-mcp) · [Code](https://github.com/ig-ViraL/pg-mcp-server) | Production MCP server exposing **10 tools** (schema discovery, query execution, performance analysis, DB health). Sandboxed: read-only role, mutation blocking, auto `LIMIT`, 5s timeout, AES-256-GCM encrypted connection strings, zero server-side credentials. | `Python` `FastMCP` `asyncpg` `React` `Railway` |
 | **Real-Time Stock Screener** · [Live demo](https://stock-screener-beta-two.vercel.app/) · [Code](https://github.com/ig-ViraL/stock-screener) | Live dashboard streaming 25+ stocks over Finnhub WebSocket. `use cache` + Partial Prerendering for a **90%+ cache hit rate** within API rate caps; URL-driven, shareable filters. | `Next.js 16` `TypeScript` `WebSockets` |
 
-> More on my [portfolio](https://www.viral-deshle.cloud/). Also public: [claude-code agents](https://github.com/ig-ViraL/agents) and [DSA practice](https://github.com/ig-ViraL/DSA). Built with Claude Code as a pair programmer; the architecture and decisions are mine.
+> The DocMind and MCP backends run on free-tier hosting and are offline between demos, so both repos include Docker setup to run them locally. More on my [portfolio](https://www.viral-deshle.cloud/). Also public: [claude-code agents](https://github.com/ig-ViraL/agents) and [DSA practice](https://github.com/ig-ViraL/DSA). Built with Claude Code as a pair programmer; the architecture and decisions are mine.
 
 ## `> cat skills.txt`
 
